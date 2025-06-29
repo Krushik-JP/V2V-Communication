@@ -31,12 +31,6 @@ This project implements a real-time **V2V and V2I communication system** using *
 - `/outputs`: Screenshots, result images, demo GIFs
 - `/report`: Final project report PDF
 
-## 👨‍🔧 Contributors
-
-- Krushik JP (1DS22EC107)
-- B S Dheeraj, Chandan D, Darshan D L
-
-Under the guidance of **Dr. Trupti S Tagare**, DSCE
 
 ## 📄 License
 MIT License

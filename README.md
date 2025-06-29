@@ -7,7 +7,6 @@ This project implements a real-time **V2V and V2I communication system** using *
 - **ESP32**, MPU6050, HC-SR04, L298N
 - **Wi-Fi communication (UDP/HTTP)**
 - **LCD display for alerts**
-- **RFID (optional) for emergency detection**
 - C/C++ with Arduino IDE
 
 ## 🛠️ Features

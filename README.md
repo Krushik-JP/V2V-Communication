@@ -59,7 +59,7 @@ Emergency vehicles (like ambulances or fire trucks) send a special signal to the
 ---
 
 ### ⚙️ Traffic light
-<img src="outputs/traffic.jpg" width="450"/>
+<img src="outputs/traffic.jpg" width="450"height="200"/>
 
 > ESP32 nodes communicating with each other and the traffic controller
 
